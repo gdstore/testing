@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.container-fluid{
+	max-width: 1100px;
+	margin: auto;
+}
+
+.navbar-collapse{
+	float: right;
+}
+
+.about {
+	background: #666;
+	color: #fff;
+	text-align: right;
+	padding: 100px 0px;
+}
+
+#bg-box {
+	background: #666;
+	color: #fff;
+	text-align: center;
+	padding: 25px 0px;
+}
+
+footer {
+	background: #666;
+	color: #fff;
+	text-align: center;
+	margin: 0;
+}
+
+footer h6 {
+	padding: 20px 0px;
+	margin: 0;
+}
