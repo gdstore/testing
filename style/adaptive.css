@@ -1,0 +1,13 @@
+@media screen and (max-width: 696px) {
+	.media-padding {
+		margin-bottom: 10px;
+	}
+
+	.adap-btn h3 {
+		padding-top: 10px;
+	}
+
+	.about {
+		text-align: center;
+	}
+}
