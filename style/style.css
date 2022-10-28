@@ -20,6 +20,11 @@
 	padding: 100px 0px;
 }
 
+.about button a {
+	color: #fff;
+	text-decoration: none;
+}
+
 #bg-box {
 	background: #666;
 	color: #fff;
